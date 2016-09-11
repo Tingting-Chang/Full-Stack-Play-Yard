@@ -12,7 +12,7 @@
 
 ##### Team projects
 
-  1. Team Project 1 [Demo](http://htmlpreview.github.com/?http://htmlpreview.github.io/?https://github.com/AntrikshPatel/TeamProject1/blob/gh-pages/chatingapp.html) | [Code](https://github.com/Tingting-Chang/team-project-01/blob/master/tt.html)
+  1. Team Project 1 [Demo](http://htmlpreview.github.io/?https://github.com/AntrikshPatel/TeamProject1/blob/gh-pages/chatingapp.html) | [Code](https://github.com/Tingting-Chang/team-project-01/blob/master/tt.html)
 
 ### [Front End Technology tasks from Baidu Institute](http://ife.baidu.com/task/all)
 
